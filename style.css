@@ -50,6 +50,7 @@ a { color: var(--accent); }
   color: var(--text);
 }
 .links a:hover { border-color: var(--accent); }
+.links a.youtube span { color: #ff0033; margin-right: 4px; }
 footer {
   margin-top: 56px;
   padding-top: 20px;
